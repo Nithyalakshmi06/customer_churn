@@ -17,6 +17,9 @@ This is a customer churn prediction web application built using **Streamlit**, *
 - **Matplotlib & Seaborn**: For visualizations.
 - **ReportLab**: To generate PDF reports.
 
+### Live Demo
+https://customerchurn-prenithdha.streamlit.app/
+
 ## Installation
 
 To run the project locally, follow these steps:
@@ -24,3 +27,4 @@ To run the project locally, follow these steps:
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/preethikaselvakumar/churn-prediction-app.git
+
